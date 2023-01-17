@@ -1,4 +1,4 @@
-# Access Data Structures 👩‍💻
+# Python Data Structures 👩‍💻
 ### Learn Python Data Structures 💻
 
 - # HI! 🙋🏽‍♀️
